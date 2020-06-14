@@ -4,56 +4,56 @@ title-slide-attributes:
 - data-background-size: cover
 - data-background-opacity: 0.18
 - data-background-color: aquamarine
-title: Gráficos que se revelan lentamente
+title: Un gráfico que se revela lentamente
 subtitle: Slow Reveal Graphs
 author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a>
 rollingLinks: true
 description: Elección de carreras universitarias por género. Materiales distribuidos bajo licencia CC-BY-SA-4.0 
 ---
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Qué observas? Intenta ir contestando mentalmente a las preguntas.
 
 ![](assets/images/mujeres1.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 Esta nueva información, ¿qué añade o cambia a lo que pensabas?
 
 ![](assets/images/mujeres2.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Y ahora?
 
 ![](assets/images/mujeres3.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Qué observas? ¿Qué te preguntas?
 
 ![](assets/images/mujeres4.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Qué podemos preguntarnos? ¿Intuimos qué puede estar mostrando este gráfico?
 
 ![](assets/images/mujeres5.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 Solo nos falta qué significa el eje vertical y lo más importante, de qué va el gráfico.
 
 ![](assets/images/mujeres6.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Podemos decir ya qué nos está mostrando el gráfico?
 
 ![](assets/images/mujeres7.jpg){width=100%}
 
-## Gráficos que se revelan lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
+## Un gráfico que se revela lentamente {data-background-image="assets/images/stats2.jpg" data-background-opacity="0.06"}
 
 ¿Cuándo has empezado a pensar que el gráfico iba sobre elección de carreras universitarias por género?
 
