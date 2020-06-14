@@ -5,7 +5,7 @@ title-slide-attributes:
 - data-background-opacity: 0.18
 - data-background-color: aquamarine
 title: Un gráfico que se revela lentamente
-subtitle: Slow Reveal Graphs
+subtitle: Slow Reveal Graph
 author: <a href="www.tierradenumeros.com">Pablo Beltrán-Pellicer </a> <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a>
 rollingLinks: true
 description: Elección de carreras universitarias por género. Materiales distribuidos bajo licencia CC-BY-SA-4.0 
